@@ -10,6 +10,8 @@ Once you get this message that means the local server is running. You will also 
 
 
 ___________________________________________________________________ Taken from the repository fantastic-couscous
+
+
 Getting Started
 
 The EMU_Telemetry Simulator is set up through a MEAN stack (MongoDB, ExpressJS, Angular, NodeJS) please install these frameworks first, links to each are listed below:
